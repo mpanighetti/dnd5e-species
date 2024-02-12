@@ -28,7 +28,7 @@ _**Hold Breath.**_ You can hold your breath for 30 minutes.
 
 _**Keen Smell.**_ You have advantage on Wisdom (Perception) checks that rely on smell.
 
-_**Seal Skin.**_ You can use your action to don your seal skin and polymorph into your seal form, or doff it to polymorph into your person form, which resembles a human (or the lineage of a non-selkie parent). Your statistics are the same in your seal form except for the following changes:
+_**Seal Skin.**_ You can use your action to don your seal skin and polymorph into your seal form, or doff it to polymorph into your person form, which resembles a human (or the species of a non-selkie parent). Your statistics are the same in your seal form except for the following changes:
 
 - Your walking speed is reduced by 10 feet, and your swimming speed is doubled.
 - Your sensitive whiskers grant you blindsight to a distance of 5 feet.
