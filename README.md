@@ -8,7 +8,9 @@ If a resource was written for another 5e homebrew document, it will include a li
 
 ### Species
 
-- [Selkie](species/selkie.md)
+#### Fey
+
+- [Selkie](fey/selkie.md)
 
 ## Credits
 
