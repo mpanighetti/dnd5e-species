@@ -8,6 +8,8 @@ If a resource was written for another 5e homebrew document, it will include a li
 
 ### Species
 
+Species are arranged by creature type and listed alphabetically. Species with multiple creature types will be listed under whatever is considered their primary creature type.
+
 #### Fey
 
 - [Selkie](fey/selkie.md)
