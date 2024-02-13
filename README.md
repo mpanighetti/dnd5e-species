@@ -14,9 +14,9 @@ Species are arranged by creature type and listed alphabetically. Species with mu
 
 - [Selkie](fey/selkie.md)
 
-#### Ooze
+#### Oozes
 
-- [Oozeborn](ooze/oozeborn.md)
+- [Oozeborn](oozes/oozeborn.md)
 
 ## Credits
 
