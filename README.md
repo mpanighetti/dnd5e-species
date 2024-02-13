@@ -14,6 +14,10 @@ Species are arranged by creature type and listed alphabetically. Species with mu
 
 - [Selkie](fey/selkie.md)
 
+#### Humanoids
+
+- [Cetean](humanoids/cetean.md)
+
 #### Oozes
 
 - [Oozeborn](oozes/oozeborn.md)
@@ -23,6 +27,10 @@ Species are arranged by creature type and listed alphabetically. Species with mu
 ### Writing and Gameplay
 
 [Mario Panighetti](https://mario.panighetti.net)
+
+### Artists
+
+- [Nikki Lacey](https://linktr.ee/hollycircling)
 
 ## Compatibility
 
