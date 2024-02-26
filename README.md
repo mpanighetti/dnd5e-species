@@ -38,7 +38,7 @@ This content was written to be compatible with Dungeons & Dragons 5th Edition. T
 
 ## License
 
-_dnd5e-species_ is © 2020 Mario Panighetti. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+_dnd5e-species_ is © 2018 Mario Panighetti. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
 Certain materials are included under fair use exemption of the U.S. Copyright Law and are restricted from further use. These materials, including references to game mechanics, are not approved or endorsed by Wizards of the Coast and do not constitute any license or agreement with Wizards of the Coast.
 
