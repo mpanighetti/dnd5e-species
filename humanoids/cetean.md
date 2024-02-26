@@ -26,3 +26,7 @@ _**Hold Breath.**_ You can hold your breath for up to 1 hour.
 _**Whale Build.**_ You have advantage on Strength-based ability checks and Strength saving throws. In addition, you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
 _**Whalesong.**_ You can use your echospeak to connect to other members of your pod and are able to communicate with them over great distances, benefitting from shared knowledge carried through your people's collective whalesong. Whenever you finish a long rest, you gain proficiency in one skill of your choice. You acquire this proficiency by drawing from shared cetean knowledge, and you retain it until you finish your next long rest.
+
+---
+
+_Source: [Mote](https://github.com/mpanighetti/dnd5e-mote)_
