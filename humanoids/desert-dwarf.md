@@ -6,7 +6,7 @@
 
 #### Distribution
 
-The sands of [Barria](https://github.com/mpanighetti/dnd5e-mote/tree/main/mote/esterfell/barria) immediately appealed to the desert dwarves who arrived in Esterfell's early waves of immigration. These dwarves can be found among the populations of [Mawlin](https://github.com/mpanighetti/dnd5e-mote/tree/main/societies/mawlin) tribes who wander the wind-blasted terrain.
+The sands of [Barria](https://github.com/mpanighetti/dnd5e-mote/tree/main/mote/esterfell/barria) immediately appealed to the desert dwarves who arrived in [Esterfell](https://github.com/mpanighetti/dnd5e-mote/tree/main/mote/esterfell)'s early waves of immigration. These dwarves can be found among the populations of [Mawlin](https://github.com/mpanighetti/dnd5e-mote/tree/main/societies/mawlin) tribes who wander the wind-blasted terrain.
 
 #### Traits
 
