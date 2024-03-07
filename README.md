@@ -17,6 +17,7 @@ Species are arranged by creature type and listed alphabetically. Species with mu
 #### Humanoids
 
 - [Cetean](humanoids/cetean.md)
+- [Desert dwarf](humanoids/desert-dwarf.md)
 
 #### Oozes
 
