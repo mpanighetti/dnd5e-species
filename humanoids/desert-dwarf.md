@@ -6,7 +6,7 @@
 
 #### Distribution
 
-The sands of [Barria](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/barria) immediately appealed to the desert dwarves who arrived in Esterfell's early waves of immigration. Desert dwarves are among the populations of [Mawlin](https://github.com/mpanighetti/dnd5e-mote/blob/main/societies/mawlin) tribes who wander the wind-blasted terrain.
+The sands of [Barria](https://github.com/mpanighetti/dnd5e-mote/tree/main/mote/esterfell/barria) immediately appealed to the desert dwarves who arrived in Esterfell's early waves of immigration. These dwarves can be found among the populations of [Mawlin](https://github.com/mpanighetti/dnd5e-mote/tree/main/societies/mawlin) tribes who wander the wind-blasted terrain.
 
 #### Traits
 
@@ -23,7 +23,7 @@ _**Desert Born.**_ You have Proficiency in the Survival Skill, and you are natur
 
 _**Dwarven Resilience.**_ You have Resistance to Poison Damage. You also have Advantage on saving throws you make to avoid or end the Poisoned Condition on yourself.
 
-_**Sandhopping.**_ You move normally in nonmagical difficult terrain.
+_**Walk Without Rhythm.**_ You move normally in nonmagical difficult terrain. Additionally, while moving through such terrain, you can Dash as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
 
 ---
 
