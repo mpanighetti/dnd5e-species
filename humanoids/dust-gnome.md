@@ -25,7 +25,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the Spells yo
 
 _**Gnomish Cunning.**_ You have Advantage on Intelligence, Wisdom, and Charisma Saving Throws.
 
-_**Waterdowsers.**_ You have Proficiency in the Survival Skill, and you are naturally adapted to hot climates. Additionally, when you are in a hot climate, you have Advantage on Wisdom (Survival) and Wisdom (Perception) checks to forage or navigate within the environment.
+_**Waterdowsers.**_ You have Proficiency in the Survival and Perception Skills, and you are naturally adapted to hot climates. Additionally, when you are in a hot climate, you have Advantage on Wisdom (Survival) and Wisdom (Perception) checks to forage or navigate within the environment.
 
 ---
 
