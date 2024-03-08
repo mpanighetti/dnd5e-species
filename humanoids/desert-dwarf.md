@@ -2,7 +2,7 @@
 
 #### Description
 
-**Desert dwarves** developed many distinct traits that make them comfortable within arid environments. Their wider feet allow them to distribute their weight across the desert sands without sinking, allowing them to dart quickly about. Their impressive beards grow thick and shaggy to insulate them from the unrelenting sun while also trapping body heat at night, and this growth of hair extends around their chests to their backs, providing ample coverage.
+**Desert dwarves** developed many distinct traits that make them comfortable within arid environments. Their wider feet allow them to distribute their weight across the desert sands without sinking, allowing them to not only dart quickly about the surface, but to even act as rudimentary flippers to burrow underground. Their impressive beards grow thick and shaggy to insulate them from the unrelenting sun while also trapping body heat at night, and this growth of hair extends around their chests to their backs, providing ample coverage.
 
 #### Distribution
 
@@ -19,11 +19,11 @@ As a desert dwarf, you have the following special traits.
 
 _**Darkvision.**_ You have Darkvision with a range of 60 feet.
 
-_**Desert Born.**_ You have Proficiency in the Survival Skill, and you are naturally adapted to hot climates. When you are in a hot climate, you have Advantage on Wisdom (Survival) checks to forage or navigate within the environment.
+_**Desert Born.**_ You are naturally adapted to hot climates, granting you Resistance to Fire Damage. In addition, you do not need to drink water, as your body is able to survive on the small amounts of moisture found in your normal food intake.
 
 _**Dwarven Resilience.**_ You have Resistance to Poison Damage. You also have Advantage on saving throws you make to avoid or end the Poisoned Condition on yourself.
 
-_**Walk Without Rhythm.**_ You move normally in nonmagical difficult terrain. Additionally, while moving through such terrain, you can Dash as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
+_**Walk Without Rhythm.**_ You have a Burrow Speed equal to your Speed. Additionally, while moving through nonmagical difficult terrain, you can Dash as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
 
 ---
 
