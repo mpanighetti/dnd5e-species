@@ -36,7 +36,7 @@ Species are arranged by creature type and listed alphabetically. Species with mu
 
 ## Compatibility
 
-This content was written to be compatible with Dungeons & Dragons 5th Edition. This document uses "species" in place of "race" where used in the _Systems Reference Document_.
+This content was written to be compatible with Dungeons & Dragons 5th Edition.  This document uses "species" in place of "race" and "ancestry" or "variant" in place of "subrace" where used in the _Systems Reference Document_.
 
 ## License
 
