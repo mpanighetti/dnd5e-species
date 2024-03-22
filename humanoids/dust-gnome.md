@@ -6,7 +6,7 @@
 
 #### Distribution
 
-The hot stretches of [Barrian](https://github.com/mpanighetti/dnd5e-mote/tree/main/mote/esterfell/barria) desert drew in the dust gnomes, who helped establish some of the early populations that founded [Mawlin](https://github.com/mpanighetti/dnd5e-mote/tree/main/societies/mawlin). These folk can be found in other regions of [Esterfell](https://github.com/mpanighetti/dnd5e-mote/tree/main/mote/esterfell), but they tend to avoid overly humid environments.
+The hot stretches of [Barrian](https://github.com/mpanighetti/dnd5e-mote/tree/main/mote/esterfell/barria.md) desert drew in the dust gnomes, who helped establish some of the early populations that founded [Mawlin](https://github.com/mpanighetti/dnd5e-mote/tree/main/societies/mawlin.md). These folk can be found in other regions of [Esterfell](https://github.com/mpanighetti/dnd5e-mote/tree/main/mote/esterfell/esterfell.md), but they tend to avoid overly humid environments.
 
 #### Traits
 
