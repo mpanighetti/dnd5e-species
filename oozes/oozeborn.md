@@ -14,13 +14,15 @@ Consider whether your oozeborn character is aware of their true nature, or if th
 
 Your oozeborn character constantly struggles to cling to the identity of a past victim. Your traits are partly based on these memories, along with the innate abilities of the inner jelly that occasionally bubble to the surface.
 
-To create an oozeborn, start by creating a Medium or smaller character of any non-oozeborn species and applying all their associated traits. This creature is your simulacrum. From there, apply the following trait modifications:
+To create an oozeborn, start by creating a Medium or smaller character of any non-oozeborn species and applying all their associated traits. This creature is your simulacrum. From there, apply the following special trait modifications.
 
-_**Ancestral Legacy.**_ If you are replacing your simulacrum species with an oozeborn, you can keep the following elements gained from that species: your size, any skill proficiencies you gained, and any climbing, flying, or swimming speed you gained.
-
-If you don’t keep any of those elements or you choose this species at character creation, you gain proficiency in two skills of your choice, your size is either Medium or Small, and your walking speed is 30 feet.
-
-_**Creature Type.**_ You are an Ooze, and you inherit any creature types of your simulacrum.
+- _**Creature Type:**_ Ooze and the creature type(s) of your simulacrum
+- _**Size:**_ Small, Medium, or the Size of your simulacrum
+- _**Speed:**_ the speed(s) of your simulacrum or 30 feet
+- _**Skills:**_ the skill(s) of your simulacrum or two of your choice
+- _**Immunities:**_ Blinded, Deafened, and Prone in ooze form
+- _**Senses:**_ Blindsight 15 feet (blind beyond this distance) in ooze form
+- _**Life Span:**_ indefinite (see **Age**)
 
 _**Age.**_ An awakened ooze does not visibly age, as the apparent age of its simulacrum is fixed from the moment it was generated. Like a normal ooze, you can live for countless centuries, as long as you receive sustenance and do not suffer life-threatening injury. You are immune to magical aging effects.
 
@@ -28,9 +30,7 @@ You do not know how long you existed in your ooze state, and you likely only dev
 
 _**Aversion to Fire.**_ The jelly that constitutes your physical being possesses a powerful instinctual fear of fire, which can sometimes be overwhelming. If you take fire damage, make a DC 10 Wisdom saving throw; on a failed save, you are frightened until the end of your next turn. After a successful save, your aversion to fire is suppressed for the next 24 hours.
 
-_**Languages.**_ You can speak, read, and write Common, and you can speak Deep Speech.
-
-If you are replacing your simulacrum species with an oozeborn, you retain any languages you had.
+_**Deep Speech.**_ In addition to any languages retained from your simulacrum, you can speak Deep Speech.
 
 _**Pseudopod.**_ You have a pseudopod that you can use to make unarmed strikes. When you hit with it, the strike deals 1d6 + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike. When you are not actively using a pseudopod to attack, it is hidden within the form of your simulacrum.
 
@@ -40,11 +40,8 @@ _**Sulfurous Impersonation.**_ You appear, feel, and sound exactly like the crea
 
 Once you became self-aware and awoke as a new being untethered from your oblex progenitor, your simulacrum became your true form.
 
-_**Amorphous.**_ As an action, you can shapeshift into your ooze form, making your body slimy and pliable. Your statistics are the same in your ooze form except for the following changes:
+_**Amorphous.**_ As an action, you can shapeshift into your ooze form, making your body slimy and pliable. Your statistics are the same in your ooze form except for where noted in your oozeborn traits, as well as the following changes:
 
-- Your creature type changes to Ooze.
-- You gain blindsight up to 15 feet away (but are blind beyond this distance).
-- You are immune to the blinded, deafened, and prone conditions.
 - You are unable to carry or wear equipment.
 - You can move through any space as narrow as 1 inch wide without squeezing.
 - You can spend 5 feet of movement to escape from nonmagical restraints or being grappled.
