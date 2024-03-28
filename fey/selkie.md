@@ -13,6 +13,7 @@ In fact, the act of this transformation involves a literal shedding of skin akin
 - _**Creature Type:**_ Fey
 - _**Size:**_ Medium (5-6 feet tall)
 - _**Speed:**_ 30 feet, swim 20 feet
+- _**Senses:**_ Darkvision 60 feet
 - _**Life Span:**_ 70-80 years on average
 
 As a selkie, you have the following traits.
