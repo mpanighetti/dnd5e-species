@@ -10,13 +10,12 @@ In fact, the act of this transformation involves a literal shedding of skin akin
 
 ### Traits
 
+- _**Creature Type:**_ Fey
+- _**Size:**_ Medium (5-6 feet tall)
+- _**Speed:**_ 30 feet, swim 20 feet
+- _**Life Span:**_ 70-80 years on average
+
 As a selkie, you have the following traits.
-
-_**Creature Type.**_ You are a Fey.
-
-_**Size.**_ You are Medium.
-
-_**Speed.**_ Your walking speed is 30 feet and your swimming speed is 20 feet.
 
 _**Aquatic Fortitude.**_ A life spent traversing the icy ocean depths has allowed you to thrive in cold environments. You have resistance to cold damage, and you ignore any of the drawbacks caused by a deep, underwater environment. Additionally, while you are not wearing armor, your Armor Class equals 12 + your Constitution modifier.
 
