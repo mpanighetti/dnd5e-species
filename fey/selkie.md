@@ -20,8 +20,6 @@ As a selkie, you have the following traits.
 
 _**Aquatic Fortitude.**_ A life spent traversing the icy ocean depths has allowed you to thrive in cold environments. You have resistance to cold damage, and you ignore any of the drawbacks caused by a deep, underwater environment. Additionally, while you are not wearing armor, your Armor Class equals 12 + your Constitution modifier.
 
-_**Darkvision.**_ You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness as shades of gray.
-
 _**Friend of the Sea.**_ You can communicate simple ideas to any beast that has a swimming speed using sounds and gestures, and you can understand it in kind.
 
 _**Hold Breath.**_ You can hold your breath for 30 minutes.
