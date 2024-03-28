@@ -13,11 +13,10 @@ The hot stretches of [Barrian](https://github.com/mpanighetti/dnd5e-mote/tree/ma
 - _**Creature Type:**_ Humanoid
 - _**Size**_ Small (3-4 feet tall)
 - _**Speed:**_ 30 feet
+- _**Senses:**_ Darkvision 60 feet
 - _**Life Span:**_ 350 years on average
 
 As a dust gnome, you have the following special traits.
-
-_**Darkvision.**_ You have Darkvision with a range of 60 feet.
 
 _**Dust Magic.**_ You know the _mold earth_ Cantrip. Starting at 3rd level, you can cast the _earth tremor_ Spell with this trait. Starting at 5th level, you can also cast the _earthbind_ Spell with it. Once you cast either of these Spells with this trait, you can't cast that spell with it again until you finish a Long Rest; however, you can cast the Spell using any Spell Slots you have of the appropriate level.
 
