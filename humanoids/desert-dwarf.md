@@ -11,16 +11,15 @@ The sands of [Barria](https://github.com/mpanighetti/dnd5e-mote/tree/main/mote/e
 #### Traits
 
 - _**Creature Type:**_ Humanoid
-- _**Size**_ Medium (4-5 feet tall)
-- _**Speed:**_ 30 feet (walking and burrowing)
+- _**Size:**_ Medium (4-5 feet tall)
+- _**Speed:**_ 30 feet, burrow 30 feet
+- _**Resistances:**_ Fire, Poison
 - _**Senses:**_ Darkvision 60 feet
 - _**Life Span:**_ 200 years on average
 
 As a desert dwarf, you have the following special traits.
 
-_**Desert Born.**_ You are naturally adapted to hot climates, granting you Resistance to Fire Damage. In addition, you do not need to drink water, as your body is able to survive on the small amounts of moisture found in your normal food intake.
-
-_**Dwarven Resilience.**_ You have Resistance to Poison Damage. You also have Advantage on saving throws you make to avoid or end the Poisoned Condition on yourself.
+_**Desert Born.**_ Because of your natural adaptations to hot climates, you do not need to drink water, as your body is able to survive on the small amounts of moisture found in your normal food intake.
 
 _**Walk Without Rhythm.**_ While moving through nonmagical difficult terrain, you can Dash as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
 

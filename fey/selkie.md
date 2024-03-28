@@ -12,13 +12,14 @@ In fact, the act of this transformation involves a literal shedding of skin akin
 
 - _**Creature Type:**_ Fey
 - _**Size:**_ Medium (5-6 feet tall)
-- _**Speed:**_ 30 feet, swim 20 feet
-- _**Senses:**_ Darkvision 60 feet
+- _**Speed:**_ 30 feet, swim 20 feet (20 feet, swim 40 feet in seal form)
+- _**Resistances:**_ Cold
+- _**Senses:**_ Darkvision 60 feet (Blindsight 5 feet in seal form)
 - _**Life Span:**_ 70-80 years on average
 
-As a selkie, you have the following traits.
+As a selkie, you have the following special traits.
 
-_**Aquatic Fortitude.**_ A life spent traversing the icy ocean depths has allowed you to thrive in cold environments. You have resistance to cold damage, and you ignore any of the drawbacks caused by a deep, underwater environment. Additionally, while you are not wearing armor, your Armor Class equals 12 + your Constitution modifier.
+_**Aquatic Fortitude.**_ A life spent traversing the icy ocean depths has allowed you to thrive in cold environments. You ignore any of the drawbacks caused by a deep, underwater environment. Additionally, while you are not wearing armor, your Armor Class equals 12 + your Constitution modifier.
 
 _**Friend of the Sea.**_ You can communicate simple ideas to any beast that has a swimming speed using sounds and gestures, and you can understand it in kind.
 
@@ -26,10 +27,8 @@ _**Hold Breath.**_ You can hold your breath for 30 minutes.
 
 _**Keen Smell.**_ You have advantage on Wisdom (Perception) checks that rely on smell.
 
-_**Selkie Skin.**_ You can use your action to don your [selkie skin](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/selkie-skin.md) and polymorph into your seal form, or doff it to polymorph into your person form, which resembles a human (or the species of a non-selkie parent). Your statistics are the same in your seal form except for the following changes:
+_**Selkie Skin.**_ You can use your action to don your [selkie skin](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/selkie-skin.md) and polymorph into your seal form, or doff it to polymorph into your person form, which resembles a human (or the species of a non-selkie parent). Your statistics are the same in your seal form except for where noted in your selkie traits, as well as the following changes:
 
-- Your walking speed is reduced by 10 feet, and your swimming speed is doubled.
-- Your sensitive whiskers grant you blindsight to a distance of 5 feet.
 - You are unable to speak, and you cannot perform actions that require hands.
 - _**Bite.**_ You have sharp teeth that you can use to make unarmed strikes. When you hit with it, the strike deals 1d6 + your Strength modifier piercing damage, instead of the bludgeoning damage normal for an unarmed strike.
 
