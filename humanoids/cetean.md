@@ -11,13 +11,11 @@ A lineage of whalefolk who fly amongst the stars in the pursuit of knowledge.
 
 ### Traits
 
+- _**Creature Type:**_ Humanoid
+- _**Size:**_ Medium (6-9 feet tall)
+- _**Speed:**_ 30 feet (walking and swimming), 30 feet (flying, in any location where gravity isn't present)
+
 As a cetean, you have the following traits.
-
-_**Creature Type.**_ You are a Humanoid.
-
-_**Size.**_ You are Medium.
-
-_**Speed.**_ Your walking speed is 30 feet, and you have a swimming speed equal to your walking speed. Additionally, in any location where gravity isn't present, you have a flying speed equal to your walking speed.
 
 _**Echospeak.**_ Without the assistance of magic, the baleen structures in your mouth make it difficult to speak the non-cetean languages you know. Instead, you primarily use a telepathic technique known as echospeak to convey your thoughts. You have the magical ability to transmit your thoughts mentally to willing creatures you can see within 120 feet of yourself. A contacted creature doesn’t need to share a language with you to understand your thoughts, but it must be able to understand at least one language. Your telepathic link to a creature is broken if you and the creature move more than 120 feet apart, if either of you is incapacitated, or if either of you mentally breaks the contact (no action required).
 
