@@ -4,7 +4,7 @@
 
 This is a collection of awakened beasts suitable for use in the [Hidden Heroes of the Awakened Woods](http://www.spacedaddygames.com/hidden-heroes/) adventure and campaign setting.
 
-The listed beast characters follow the **Creation & Advancement** guidelines in the Hidden Heroes adventure booklet. This document uses modifed versions of the monster stat block template to list each creature's attributes at each character level. Each advancement card is additive; they only include new information for that level, and anything not listed defers to the value of the last advancement level that modified that attribute (for example, the 3rd level spider's hit dice are unchanged from 2nd level and thus are not listed there).
+The listed beast characters follow the **Creation & Advancement** guidelines in the Hidden Heroes adventure booklet. This document uses modifed versions of the monster stat block template to list each creature's attributes at each character level. Each advancement level stat block is additive; they only include new information for that level, and anything not listed defers to the value of the last advancement level that modified that attribute.
 
 ## Crab
 
@@ -34,7 +34,6 @@ _**Amphibious.**_ You can breathe air and water.
 
 _**Claw.**_ _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 bludgeoning damage.
 
-
 ### Level 2
 
 #### Attributes
@@ -57,7 +56,7 @@ _**Iron Grip.**_ When you successfully hit a creature with your claw attack, the
 #### Attributes
 
 - **Armor Class:** 13
-- **Hit Points:** 8
+- **Hit Points:** 9
 - **Hit Dice:** 3d4
 - **Speed:** 30 ft., swim 30 ft.
 
@@ -98,13 +97,11 @@ _**Sure-Footed.**_ You have advantage on Strength and Dexterity saving throws ma
 
  _**Ram.**_ _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
 
-## Goat
-
 ### Level 2
 
 #### Attributes
 
-- **Hit Points:** 10
+- **Hit Points:** 12
 - **Hit Dice:** 2d8
 - **Speed:** 45 ft.
 
@@ -120,7 +117,8 @@ _**Cliff-Jumper.**_ You have a knack for verticality and can scale the most prec
 
 #### Attributes
 
-- **Hit Points:** 12
+- **Hit Points:** 17
+- **Hit Dice:** 3d8
 - **Speed:** 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -163,7 +161,7 @@ _**Bite.**_ *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 
 
 #### Attributes
 
-- **Hit Points:** 5
+- **Hit Points:** 4
 - **Hit Dice:** 2d4
 - **Speed** 25 ft., climb 25 ft.
 
@@ -189,7 +187,7 @@ You regain the use of this attack after any existing webbing is burst, destroyed
 
 #### Attributes
 
-- **Hit Points:** 7
+- **Hit Points:** 9
 - **Hit Dice:** 3d4
 - **Speed:** 30 ft., climb 30 ft.
 
