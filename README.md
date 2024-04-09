@@ -10,6 +10,10 @@ If a resource was written for another 5e homebrew document, it will include a li
 
 Species are arranged by creature type and listed alphabetically. Species with multiple creature types will be listed under whatever is considered their primary creature type.
 
+#### Beasts
+
+- [Hidden Heroes](beasts/hidden-heroes.md)
+
 #### Constructs
 
 - [Janus](constructs/janus.md)
@@ -54,3 +58,5 @@ _Elemental Evil Player's Companion_ © 2015 Wizards of the Coast LLC.
 _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 _Mordenkainen's Tome of Foes_ © 2018 Wizards of the Coast LLC.
+
+_[Hidden Heroes of the Awakened Woods](https://www.spacedaddygames.com/hidden-heroes) © 2019 Space Daddy Games LLC.
