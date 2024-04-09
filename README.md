@@ -10,6 +10,10 @@ If a resource was written for another 5e homebrew document, it will include a li
 
 Species are arranged by creature type and listed alphabetically. Species with multiple creature types will be listed under whatever is considered their primary creature type.
 
+#### Constructs
+
+- [Janus](constructs/janus.md)
+
 #### Fey
 
 - [Selkie](fey/selkie.md)
@@ -41,6 +45,8 @@ _dnd5e-species_ is © 2018 Mario Panighetti. Licensed under [CC BY-NC-SA 4.0](ht
 Certain materials are included under fair use exemption of the U.S. Copyright Law and are restricted from further use. These materials, including references to game mechanics, are not approved or endorsed by Wizards of the Coast and do not constitute any license or agreement with Wizards of the Coast.
 
 ## Third-Party Content References
+
+_Player's Handbook_ © 2014 Wizards of the Coast LLC.
 
 _Elemental Evil Player's Companion_ © 2015 Wizards of the Coast LLC.
 
