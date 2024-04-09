@@ -1,16 +1,23 @@
 # Janus
 
-You are a Janus, a personal assistant with access to all knowledge of the Universe, designed to cater to the needs of residents of The Good Plane. Or at least, that's what your creator told you.
+### Descrition
+
+A Janus is a personal assistant with access to all knowledge of the Universe, designed to cater to the needs of residents of The Good Plane. Or at least, that's what their creator told them.
 
 Doogas Vorcett was deep in meditative thought (but mostly high on mushrooms) when he entered a trance and became aware of strange whispers from The Far Realm. From these rumblings, he conceived of a cosmology previously unheard of in his world, where one's deeds in life were tabulated, sending them to a Good Plane or Bad Plane in death depending on their final score. These souls would be attended to by a Janus, a custodial construct with a vast repertorie of knowledge and abilities at its disposal.
 
 Doogas sought to recreate the being from his visions. With the help of his tinkerer skills (and another round of mushrooms), he successfully brought a construct to consciousness and christened it "Janus". Though this Janus had no special connection to the Good Plane of Doogas' visions, it was instilled with his longing to connect with that other reality, and designed to emulate the function of a Janus to the best of its ability.
 
-### Not a Robot, Not a Girl
+<figure>
+  <img src="janus-tigerlilynoh.png" alt="Drawing of a humanoid figure resembling D'Arcy Carden from The Good Place with a gray blouse, purple corset and dress, and brown boots. Their skin has seams indicating that it's artificial and stitched together from separate components." />
+  <figcaption>TigerLilyNoh by <a href="https://tigerlilynoh.tumblr.com">TigerLilyNoh</a></figcaption>
+</figure>
+
+#### Not a Robot, Not a Girl
 
 Though Janus are built out of the same wood, stone, and steel materials of other constructs, they are designed to more closely resemble a human female, including wearing similar clothing and hairstyles. At first glance, a Janus might even be mistaken for a human, until their mannerisms give them away — or they helpfully correct the error. It is not in a Janus' nature to conceal their true identity, and such information is readily volunteered to anyone in the vicinity.
 
-### Janus Personality
+#### Personality
 
 Janus are programmed to be personal assistants. Their greatest desire is to make sure others are happy and comfortable in the afterlife, and though Janus do not traditionally interact with living creatures on the Material Plane, this same drive to serve extends to them as well.
 
@@ -18,7 +25,7 @@ Janus maintain a cheerful, optimistic disposition at all times, unless their liv
 
 With all this said, Janus, as with all sentient constructs, are independent beings with their own free will, and can thus choose to defy their programming with sufficient motivation or justification. Additionally, their pre-programmed abilities and limitations can continue to expand whenever they are rebooted.
 
-### Janus Names
+#### Names
 
 Unlike typical constructs, Janus do not have numeric designations or any way to uniquely identify them. All Janus are referred to exclusively as "Janus" by default, though their free wills mean they could pick any other identifier they desire.
 
