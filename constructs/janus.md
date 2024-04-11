@@ -43,7 +43,7 @@ _**Update Ability.**_ Pick an ability from Wisdom, Intelligence, or Charisma. Th
 
 _**Compulsory Truth.**_ Like all Janus models, you are incapable ofspeaking a deliberate lie to another creature (similar to the effect of the _zone of truth_ spell), and automatically fail Charisma (Deception) checks made with the intent to mislead another creature. This does not prevent you from making statements that you do not _know_ to be untruthful, but you must always make every effort to tell the truth when communicating.
 
-_**"Hey Janus".**_ You know the _dimension door_ spell and can cast it without expending a spell slot, but you must use it to teleport only yourself (with no additional creature) to a destination adjacent to an ally, and you must finish a long rest before you can cast it this way again. You can also cast this spell using any spell slots you have, in which case the spell functions normally without the above limitations or target requirements.
+_**"Hey Janus".**_ You know the _dimension door_ spell and can cast it without expending a spell slot, but you must use it to teleport only yourself (with no additional creature) to a destination adjacent to an ally, and you must finish a Long Rest before you can cast it this way again. You can also cast this spell using any spell slots you have, in which case the spell functions normally without the above limitations or target requirements.
 
 Your spellcasting ability when using this trait is your Update Ability.
 
@@ -57,19 +57,19 @@ When you are reduced to 0 hit points, you can optionally attempt to reboot. To d
 
 If you are unable to select both an update and a sacrifice based on any requirements laid out in each table, this trait has no effect. Otherwise, you successfully reboot, gaining 1 hit point in the process. The act of rebooting takes a temporary toll on your ability to perform normal operations and makes you suffer one level of exhaustion.
 
-_**Sentry's Rest.**_ When you take a long rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you remain conscious.
+_**Sentry's Rest.**_ When you take a Long Rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you remain conscious.
 
 ##### Updates
 | Name | Requirements | Effect |
 |:-:|:-:|:-|
 | **All the Knowledge in the Universe** | Update Ability score less than 30 | Add 1 to your Update Ability score. This ability score can be increased above 20 by this trait, up to a maximum of 30. |
-| **Social Abilities** | At least one skill based on your Update Ability in which you lack profiency | You gain proficiency in a skill of your choice based on your Update Ability. If you are proficient in all Update Ability skills, you can select this update a final time to gain expertise on one Update Ability skill, doubling your proficiency bonus for any ability check you make that uses that skill. |
-| **Objective Truth** | Limit one | Your Compulsory Truth trait no longer has any effect, and you can lie to other creatures without restriction. However, when you tell a lie or make a Charisma (Deception) skill check, you must roll on a table for a random magical effect, such as the Wild Magic Surge table in the _Player's Handbook_. If that effect is a spell, it doesn't require concentration, it lasts for its full duration, and the spell save DC is 8 + your proficiency bonus + your Update Ability score modifier.<br /><br />At the DM's discretion, any roll on a random magical effects table can optionally be replaced with a potted cactus appearing in your hands. |
+| **Social Abilities** | At least one skill based on your Update Ability in which you lack profiency | You gain Proficiency in a skill of your choice based on your Update Ability. If you have Proficiency in all Update Ability skills, you can select this update a final time to gain Expertise on one Update Ability skill, doubling your Proficiency Bonus for any ability check you make that uses that skill. |
+| **Objective Truth** | Limit one | Your Compulsory Truth trait no longer has any effect, and you can lie to other creatures without restriction. However, when you tell a lie or make a Charisma (Deception) skill check, you must roll on a table for a random magical effect, such as the Wild Magic Surge table in the _Player's Handbook_. If that effect is a spell, it doesn't require Concentration, it lasts for its full duration, and the Spell Save DC is 8 + your Proficiency Bonus + your Update Ability score modifier.<br /><br />At the DM's discretion, any roll on a random magical effects table can optionally be replaced with a potted cactus appearing in your hands. |
 | **Go Get It, Girl** | Limit one, Update Ability score of 20 or higher | Casting _dimension door_ using your "Hey Janus" trait no longer has a distance limitation, can optionally teleport an additional creature, and can additionally be cast if you are on a separate plane from the target. |
 
 ##### Sacrifices
 | Name | Requirements | Effect |
 |:-:|:-:|:-|
 | **My Brain is Wrong** | An ability score other than your Update Ability greater than 1 | Subtract 1 from an ability other than your Update Ability with an ability score greater than 1. |
-| **I'm Broken** | Proficiency in at least one skill not based on your Update Ability | You lose proficiency in a skill of your choice that uses an ability other than your Update Ability. If you have no eligible skills, you can select this sacrifice a final time to gain ineptitude on one skill that doesn't use your Update Ability. You have disadvantage on all ability checks you make that use that skill, and cannot add your proficiency bonus to any checks for this skill. |
+| **I'm Broken** | Proficiency in at least one skill not based on your Update Ability | You lose Proficiency in a skill of your choice that uses an ability other than your Update Ability. If you have no eligible skills, you can select this sacrifice a final time to gain ineptitude on one skill that doesn't use your Update Ability. You have disadvantage on all ability checks you make that use that skill, and cannot add your Proficiency Bonus to any checks for this skill. |
 | **Nope 👍** | More than one Hit Dice | You lose 1 Hit Die of your choice, and your hit point maximum is reduced by a roll of that die plus your Constitution modifier. |

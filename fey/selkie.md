@@ -34,7 +34,7 @@ _**Selkie Skin.**_ You can use your action to don your [selkie skin](https://git
 
 While you are in either your seal or person form using this trait, you are considered to be in your true form. Any equipment you are wearing or carrying, including your selkie skin, merges into your seal form.
 
-While your selkie skin is not merged into your form, it is a wondrous magic item with AC 11 and 3 hit points. The skin is destroyed if on a separate plane of existence from you. If another creature attunes to your selkie skin, you are charmed by that creature until the attunement ends, and no spell or other effect can remove this charm. If your skin is destroyed, you grow a replacement skin after you complete a long rest.
+While your selkie skin is not merged into your form, it is a wondrous magic item with AC 11 and 3 hit points. The skin is destroyed if on a separate plane of existence from you. If another creature attunes to your selkie skin, you are charmed by that creature until the attunement ends, and no spell or other effect can remove this charm. If your skin is destroyed, you grow a replacement skin after you complete a Long Rest.
 
 ---
 

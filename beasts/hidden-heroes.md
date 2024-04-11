@@ -68,7 +68,7 @@ _**Iron Grip.**_ When you successfully hit a creature with your claw attack, the
 
 #### Special Traits
 
-_**Spellcasting.**_ You know the _shield_ spell and the _mage hand_ cantrip. You may cast up to 4 spells or cantrips and regain all uses when you finish a short or long rest. Intelligence is your spellcasting modifier.
+_**Spellcasting.**_ You know the _shield_ spell and the _mage hand_ cantrip. You may cast up to 4 spells or cantrips and regain all uses when you finish a short or Long Rest. Intelligence is your spellcasting modifier.
 
 ## Goat
 
@@ -91,7 +91,7 @@ _Medium beast_
 
 #### Special Traits
 
-_**Sure-Footed.**_ You have advantage on Strength and Dexterity saving throws made against effects that would knock you prone.
+_**Sure-Footed.**_ You have advantage on Strength and Dexterity Saving Throws made against effects that would knock you prone.
 
 #### Actions
 
@@ -127,7 +127,7 @@ _**Cliff-Jumper.**_ You have a knack for verticality and can scale the most prec
 
 #### Special Traits
 
-_**Charge.**_ If you move at least 20 feet straight toward a target and then hit it with a ram attack on the same turn, the target takes an extra 5 (2d4) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone. If you used all your movement speed for this trait, the target has disadvantage on the saving throw.
+_**Charge.**_ If you move at least 20 feet straight toward a target and then hit it with a ram attack on the same turn, the target takes an extra 5 (2d4) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength Saving Throw or be knocked prone. If you used all your movement speed for this trait, the target has disadvantage on the Saving Throw.
 
 ## Spider
 
@@ -155,7 +155,7 @@ _**Spider Climb.**_ You can climb difficult surfaces, including upside down on c
 
 #### Actions
 
-_**Bite.**_ *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 1 poison damage.
+_**Bite.**_ *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage, and the target must succeed on a DC 10 Constitution Saving Throw or take 1 poison damage.
 
 ### Level 2
 
@@ -181,7 +181,7 @@ _**Web.**_ _Ranged Weapon Attack:_ +5 to hit, range 15/30 ft., one creature. _Hi
 
 The webbing can be attacked and destroyed (AC 8; HP 4; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage). After one minute, the webbing dissolves and disappears.
 
-You regain the use of this attack after any existing webbing is burst, destroyed, or disappears, or after taking a short or long rest.
+You regain the use of this attack after any existing webbing is burst, destroyed, or disappears, or after taking a short or Long Rest.
 
 ### Level 3
 
@@ -197,8 +197,8 @@ You regain the use of this attack after any existing webbing is burst, destroyed
 
 #### Actions
 
-_**Silken Refuge.**_ You can spin an enchanted web with a 5 foot radius centered on the space you occupy. Any spaces covered by this webbing are difficult terrain for any creature you choose (this choice is made any time a creature first enters the webbing or starts its turn there). Additionally, if you or any allies end a turn in the web, they regain 1 hit point and have advantage on Dexterity saving throws until the start of their next turn.
+_**Silken Refuge.**_ You can spin an enchanted web with a 5 foot radius centered on the space you occupy. Any spaces covered by this webbing are difficult terrain for any creature you choose (this choice is made any time a creature first enters the webbing or starts its turn there). Additionally, if you or any allies end a turn in the web, they regain 1 hit point and have advantage on Dexterity Saving Throws until the start of their next turn.
 
 The enchanted webbing can be attacked and destroyed (AC 11; HP 6; vulnerability to fire damage; resistance to damage from magical attacks; immunity to bludgeoning, poison, and psychic damage). After one hour, the webbing magically vanishes.
 
-You regain the use of this action after taking a long rest.
+You regain the use of this action after taking a Long Rest.

@@ -28,7 +28,7 @@ _**Age.**_ An awakened ooze does not visibly age, as the apparent age of its sim
 
 You do not know how long you existed in your ooze state, and you likely only developed your current consciousness within the past year, but the memories of your simulacrum feel more true to your self-identity in terms of age and life experiences.
 
-_**Aversion to Fire.**_ The jelly that constitutes your physical being possesses a powerful instinctual fear of fire, which can sometimes be overwhelming. If you take fire damage, make a DC 10 Wisdom saving throw; on a failed save, you are frightened until the end of your next turn. After a successful save, your aversion to fire is suppressed for the next 24 hours.
+_**Aversion to Fire.**_ The jelly that constitutes your physical being possesses a powerful instinctual fear of fire, which can sometimes be overwhelming. If you take fire damage, make a DC 10 Wisdom Saving Throw; on a failed save, you are frightened until the end of your next turn. After a successful save, your aversion to fire is suppressed for the next 24 hours.
 
 _**Deep Speech.**_ In addition to any languages retained from your simulacrum, you can speak Deep Speech.
 
@@ -45,9 +45,9 @@ _**Amorphous.**_ As an action, you can shapeshift into your ooze form, making yo
 - You are unable to carry or wear equipment.
 - You can move through any space as narrow as 1 inch wide without squeezing.
 - You can spend 5 feet of movement to escape from nonmagical restraints or being grappled.
-- You don't need to sleep or breathe, and you can’t be forced to sleep by any means. You can gain the benefits of a long rest if you spend at least 4 hours of that 8 hour period in a physically inactive state, during which you are conscious and aware of your surroundings within the limits of your ooze senses.
+- You don't need to sleep or breathe, and you can't be forced to sleep by any means. You can gain the benefits of a Long Rest if you spend at least 4 hours of that 8 hour period in a physically inactive state, during which you are conscious and aware of your surroundings within the limits of your ooze senses.
 
-Any equipment you are wearing or carrying isn't transformed. You remain transformed until the end of your next short or long rest, or until you revert to your simulacrum form as an action.
+Any equipment you are wearing or carrying isn't transformed. You remain transformed until the end of your next short or Long Rest, or until you revert to your simulacrum form as an action.
 
 #### Optional: Imperfect Imitation
 
@@ -55,7 +55,7 @@ Though you are mostly indistinguishable from the creature you impersonate, you m
 
 Whenever you fail an Intelligence, Wisdom, or Charisma check (and are not already in your ooze form), your specified or randomized uncanny tell becomes apparent. This change is largely cosmetic and generally has no impact on your ability to interact with the world, though it will make your oozy origins plain to those who take notice.
 
-You can only display one uncanny tell at a time. The tell fades after your next short or long rest as you reassert your simulacrum's identity.
+You can only display one uncanny tell at a time. The tell fades after your next short or Long Rest as you reassert your simulacrum's identity.
 
 ##### Uncanny Tells
 
