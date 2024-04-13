@@ -4,9 +4,9 @@
 
 A Janus is a personal assistant with access to all knowledge of the Universe, designed to cater to the needs of residents of The Good Plane. Or at least, that's what their creator told them.
 
-Doogas Vorcett was deep in meditative thought (but mostly high on mushrooms) when he entered a trance and became aware of strange whispers from The Far Realm. From these rumblings, he conceived of a cosmology previously unheard of in his world, where one's deeds in life were tabulated, sending them to a Good Plane or Bad Plane in death depending on their final score. These souls would be attended to by a Janus, a custodial construct with a vast repertorie of knowledge and abilities at its disposal.
+Doogas Vorcett was deep in meditative thought (but mostly high on mushrooms) when he entered a trance and became aware of strange whispers from The Far Realm. From these rumblings, he conceived of a cosmology previously unheard of in his world, where one's deeds in life were tabulated, sending them to a Good Plane or Bad Plane in death depending on their final score. These souls would be attended to by a Janus, a custodial construct with a vast repertorie of knowledge and abilities at their disposal.
 
-Doogas sought to recreate the being from his visions. With the help of his tinkerer skills (and another round of mushrooms), he successfully brought a construct to consciousness and christened it "Janus". Though this Janus had no special connection to the Good Plane of Doogas' visions, it was instilled with his longing to connect with that other reality, and designed to emulate the function of a Janus to the best of its ability.
+Doogas sought to recreate the being from his visions. With the help of his tinkerer skills (and another round of mushrooms), he successfully brought a construct to consciousness and christened them "Janus". Though this Janus had no special connection to the Good Plane of Doogas' visions, they were instilled with his longing to connect with that other reality, and designed to emulate the function of a Janus to the best of their ability.
 
 <figure>
   <img src="janus-tigerlilynoh.png" alt="Drawing of a humanoid figure resembling D'Arcy Carden from The Good Place with a gray blouse, purple corset and dress, and brown boots. Their skin has seams indicating that it's artificial and stitched together from separate components." />
@@ -53,9 +53,9 @@ _**Mechanical Nature.**_ You don't need to eat, drink, or breathe.
 
 _**Reboot and Update.**_ Whenever a Janus loses consciousness, they reboot and gain new knowledge and abilities, but since you do not have a connection to the Good Plane and the universal knowledge provided therein, these updates require you to repurpose your existing mechanical resources.
 
-When you are reduced to 0 hit points, you can optionally attempt to reboot. To do so, select an update to gain from the **Updates** table, and a sacrifice you give up from the **Sacrifices** table. The update and sacrifice effects are permanent, and any changes to your ability scores, skill proficiencies, traits, or hit point maximum are applied immediately. The same updates and sacrifices can be selected again on subsequent reboots, and their listed effects stack when applicable, but updates and sacrifices cannot be selected if they would not have any effect.
+When you are reduced to 0 Hit Points, you can optionally attempt to reboot. To do so, select an update to gain from the **Updates** table, and a sacrifice you give up from the **Sacrifices** table. The update and sacrifice effects are permanent, and any changes to your ability scores, skill proficiencies, traits, or Hit Point Maximum are applied immediately. The same updates and sacrifices can be selected again on subsequent reboots, and their listed effects stack when applicable, but updates and sacrifices cannot be selected if they would not have any effect.
 
-If you are unable to select both an update and a sacrifice based on any requirements laid out in each table, this trait has no effect. Otherwise, you successfully reboot, gaining 1 hit point in the process. The act of rebooting takes a temporary toll on your ability to perform normal operations and makes you suffer one level of exhaustion.
+If you are unable to select both an update and a sacrifice based on any requirements laid out in each table, this trait has no effect. Otherwise, you successfully reboot, gaining 1 Hit Point in the process. The act of rebooting takes a temporary toll on your ability to perform normal operations and makes you suffer one level of Exhaustion.
 
 _**Sentry's Rest.**_ When you take a Long Rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you remain conscious.
 
@@ -72,4 +72,4 @@ _**Sentry's Rest.**_ When you take a Long Rest, you spend at least 6 hours in an
 |:-:|:-:|:-|
 | **My Brain is Wrong** | An ability score other than your Update Ability greater than 1 | Subtract 1 from an ability other than your Update Ability with an ability score greater than 1. |
 | **I'm Broken** | Proficiency in at least one skill not based on your Update Ability | You lose Proficiency in a skill of your choice that uses an ability other than your Update Ability. If you have no eligible skills, you can select this sacrifice a final time to gain ineptitude on one skill that doesn't use your Update Ability. You have disadvantage on all ability checks you make that use that skill, and cannot add your Proficiency Bonus to any checks for this skill. |
-| **Nope 👍** | More than one Hit Dice | You lose 1 Hit Die of your choice, and your hit point maximum is reduced by a roll of that die plus your Constitution modifier. |
+| **Nope 👍** | More than one Hit Dice | You lose 1 Hit Die of your choice, and your Hit Point Maximum is reduced by a roll of that die plus your Constitution modifier. |

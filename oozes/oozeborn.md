@@ -2,7 +2,7 @@
 
 ### Description
 
-When an oblex drains memories from its victims, it must periodically shed one of the created consciousnesses as new spawn. These spawn will eventually grow into adulthood as they in turn seek out and devour the thoughts and memories of other creatures. On rare occasion, however, the incomprehensible mind of the oblex intertwines with the absorbed memories of its simulacrum, and a new consciousness arises. Such creatures adopt the copied personas as their own, taking on the appearance and physicality of the being that possessed the original mind, and are known colloquially as "oozeborn".
+When an oblex drains memories from their victims, they must periodically shed one of the created consciousnesses as new spawn. These spawn will eventually grow into adulthood as they in turn seek out and devour the thoughts and memories of other creatures. On rare occasion, however, the incomprehensible mind of the oblex intertwines with the absorbed memories of their simulacrum, and a new consciousness arises. Such creatures adopt the copied personas as their own, taking on the appearance and physicality of the being that possessed the original mind, and are known colloquially as "oozeborn".
 
 ### Roleplaying an Oozeborn
 
@@ -24,15 +24,15 @@ To create an oozeborn, start by creating a Medium or smaller character of any no
 - _**Senses:**_ Blindsight 15 feet (blind beyond this distance) in ooze form
 - _**Life Span:**_ indefinite (see **Age**)
 
-_**Age.**_ An awakened ooze does not visibly age, as the apparent age of its simulacrum is fixed from the moment it was generated. Like a normal ooze, you can live for countless centuries, as long as you receive sustenance and do not suffer life-threatening injury. You are immune to magical aging effects.
+_**Age.**_ An awakened ooze does not visibly age, as the apparent age of their simulacrum is fixed from the moment it was generated. Like a normal ooze, you can live for countless centuries, as long as you receive sustenance and do not suffer life-threatening injury. You are immune to magical aging effects.
 
 You do not know how long you existed in your ooze state, and you likely only developed your current consciousness within the past year, but the memories of your simulacrum feel more true to your self-identity in terms of age and life experiences.
 
-_**Aversion to Fire.**_ The jelly that constitutes your physical being possesses a powerful instinctual fear of fire, which can sometimes be overwhelming. If you take fire damage, make a DC 10 Wisdom Saving Throw; on a failed save, you are frightened until the end of your next turn. After a successful save, your aversion to fire is suppressed for the next 24 hours.
+_**Aversion to Fire.**_ The jelly that constitutes your physical being possesses a powerful instinctual fear of fire, which can sometimes be overwhelming. If you take Fire damage, make a DC 10 Wisdom Saving Throw; on a failed save, you are frightened until the end of your next turn. After a successful save, this trait is suppressed for the next 24 hours.
 
 _**Deep Speech.**_ In addition to any languages retained from your simulacrum, you can speak Deep Speech.
 
-_**Pseudopod.**_ You have a pseudopod that you can use to make unarmed strikes. When you hit with it, the strike deals 1d6 + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike. When you are not actively using a pseudopod to attack, it is hidden within the form of your simulacrum.
+_**Pseudopod.**_ You have a pseudopod that you can use to make Unarmed Strikes. When you hit with it, the strike deals 1d6 + your Strength modifier Slashing damage, instead of the Bludgeoning damage normal for an Unarmed Strike. When you are not actively using a pseudopod to attack, it is hidden within the form of your simulacrum.
 
 If you take damage from an attacker within melee range, as a reaction, you briefly lose control of your faculties and lash out with your pseudopod targeting the attacker. You cannot choose whether to use this reaction; it is automatic as long as you have not already used your reaction or the Ready action this round.
 
@@ -44,7 +44,7 @@ _**Amorphous.**_ As an action, you can shapeshift into your ooze form, making yo
 
 - You are unable to carry or wear equipment.
 - You can move through any space as narrow as 1 inch wide without squeezing.
-- You can spend 5 feet of movement to escape from nonmagical restraints or being grappled.
+- You can spend 5 feet of movement to escape from nonmagical restraints or being Grappled.
 - You don't need to sleep or breathe, and you can't be forced to sleep by any means. You can gain the benefits of a Long Rest if you spend at least 4 hours of that 8 hour period in a physically inactive state, during which you are conscious and aware of your surroundings within the limits of your ooze senses.
 
 Any equipment you are wearing or carrying isn't transformed. You remain transformed until the end of your next short or Long Rest, or until you revert to your simulacrum form as an action.

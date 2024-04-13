@@ -5,7 +5,7 @@
 A lineage of whalefolk who fly amongst the stars in the pursuit of knowledge.
 
 <figure>
-  <img src="https://github.com/mpanighetti/dnd5e-mote/blob/main/species/cetean/ooeeoo-nikki-lacey.jpg" alt="Drawing of a whale-like humanoid figure with a blue body and a white underside, a long sleek flattened tail, and saurian three-toed feet. The figure is wielding a golden trident with curved outer tines, and is wearing a deep blue and purple cloak shimmering with images of stars, as well as a belt with a sword in its scabbard." />
+  <img src="https://github.com/mpanighetti/dnd5e-mote/blob/main/species/cetean/ooeeoo-nikki-lacey.jpg" alt="Drawing of a whale-like humanoid figure with a blue body and a white underside, a long sleek flattened tail, and saurian three-toed feet. The figure is wielding a golden trident with curved outer tines, and is wearing a deep blue and purple cloak shimmering with images of stars, as well as a belt with a sword in their scabbard." />
   <figcaption>Ooeeoo by <a href="https://linktr.ee/hollycircling">Nikki Lacey</a></figcaption>
 </figure>
 
