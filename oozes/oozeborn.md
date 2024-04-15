@@ -47,7 +47,7 @@ _**Amorphous.**_ As an action, you can shapeshift into your ooze form, making yo
 - You can spend 5 feet of movement to escape from nonmagical restraints or being Grappled.
 - You don't need to sleep or breathe, and you can't be forced to sleep by any means. You can gain the benefits of a Long Rest if you spend at least 4 hours of that 8 hour period in a physically inactive state, during which you are conscious and aware of your surroundings within the limits of your ooze senses.
 
-Any equipment you are wearing or carrying isn't transformed. You remain transformed until the end of your next short or Long Rest, or until you revert to your simulacrum form as an action.
+Any equipment you are wearing or carrying isn't transformed. You remain transformed until the end of your next Short or Long Rest, or until you revert to your simulacrum form as an action.
 
 #### Optional: Imperfect Imitation
 
@@ -55,7 +55,7 @@ Though you are mostly indistinguishable from the creature you impersonate, you m
 
 Whenever you fail an Intelligence, Wisdom, or Charisma check (and are not already in your ooze form), your specified or randomized uncanny tell becomes apparent. This change is largely cosmetic and generally has no impact on your ability to interact with the world, though it will make your oozy origins plain to those who take notice.
 
-You can only display one uncanny tell at a time. The tell fades after your next short or Long Rest as you reassert your simulacrum's identity.
+You can only display one uncanny tell at a time. The tell fades after your next Short or Long Rest as you reassert your simulacrum's identity.
 
 ##### Uncanny Tells
 

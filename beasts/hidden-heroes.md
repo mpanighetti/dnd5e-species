@@ -68,7 +68,7 @@ _**Iron Grip.**_ When you successfully hit a creature with your claw attack, the
 
 #### Special Traits
 
-_**Spellcasting.**_ You know the _shield_ spell and the _mage hand_ cantrip. You may cast up to 4 spells or cantrips and regain all uses when you finish a short or Long Rest. Intelligence is your spellcasting modifier.
+_**Spellcasting.**_ You know the _shield_ spell and the _mage hand_ cantrip. You may cast up to 4 spells or cantrips and regain all uses when you finish a Short or Long Rest. Intelligence is your spellcasting modifier.
 
 ## Goat
 
@@ -181,7 +181,7 @@ _**Web.**_ _Ranged Weapon Attack:_ +5 to hit, range 15/30 ft., one creature. _Hi
 
 The webbing can be attacked and destroyed (AC 8; HP 4; vulnerability to Fire damage; immunity to Bludgeoning, Poison, and Psychic damage). After one minute, the webbing dissolves and disappears.
 
-You regain the use of this attack after any existing webbing is burst, destroyed, or disappears, or after taking a short or Long Rest.
+You regain the use of this attack after any existing webbing is burst, destroyed, or disappears, or after taking a Short or Long Rest.
 
 ### Level 3
 
