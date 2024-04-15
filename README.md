@@ -64,4 +64,4 @@ _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-refe
 
 _Mordenkainen's Tome of Foes_ © 2018 Wizards of the Coast LLC.
 
-_[Hidden Heroes of the Awakened Woods](https://www.spacedaddygames.com/hidden-heroes) © 2019 Space Daddy Games LLC.
+_[Hidden Heroes of the Awakened Woods](https://www.spacedaddygames.com/hidden-heroes)_ © 2019 Space Daddy Games LLC.
