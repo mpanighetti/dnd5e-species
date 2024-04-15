@@ -21,7 +21,7 @@ To create an oozeborn, start by creating a Medium or smaller character of any no
 - _**Speed:**_ the speed(s) of your simulacrum or 30 feet
 - _**Skills:**_ the skill(s) of your simulacrum or two of your choice
 - _**Immunities:**_ Blinded, Deafened, and Prone in ooze form
-- _**Senses:**_ Blindsight 15 feet (blind beyond this distance) in ooze form
+- _**Senses:**_ Blindsight 15 feet (Blind beyond this distance) in ooze form
 - _**Life Span:**_ indefinite (see **Age**)
 
 _**Age.**_ An awakened ooze does not visibly age, as the apparent age of their simulacrum is fixed from the moment it was generated. Like a normal ooze, you can live for countless centuries, as long as you receive sustenance and do not suffer life-threatening injury. You are immune to magical aging effects.
