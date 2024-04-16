@@ -33,7 +33,7 @@ Species are arranged by creature type and listed alphabetically. Species with mu
 
 #### Monstrosities
 
-- [Brakko](humanoids/brakko.md)
+- [Brakko](monstrosities/brakko.md)
 
 #### Oozes
 
