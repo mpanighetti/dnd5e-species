@@ -2,9 +2,17 @@
 
 #### Description
 
-This is a collection of awakened beasts suitable for use in the [Hidden Heroes of the Awakened Woods](http://www.spacedaddygames.com/hidden-heroes/) adventure and campaign setting.
+This is a collection of awakened beasts suitable for use in the _[Hidden Heroes of the Awakened Woods](http://www.spacedaddygames.com/hidden-heroes/)_ adventure and campaign setting.
 
-The listed beast characters follow the **Creation & Advancement** guidelines in the Hidden Heroes adventure booklet. This document uses modifed versions of the monster stat block template to list each creature's attributes at each character level. Each advancement level stat block is additive; they only include new information for that level, and anything not listed defers to the value of the last advancement level that modified that attribute.
+The listed beast characters follow the **Creation & Advancement** guidelines in the _Hidden Heroes_ booklet, with some changes (see **<a href="#modified-rules">Modified rules</a>**). This document uses modified versions of the monster stat block template to list each creature's attributes at each character level. As with the pre-generated characters in _Hidden Heroes_, each advancement level stat block is additive; they only include new information for that level, and anything not listed defers to the value of the last advancement level that modified that attribute.
+
+#### Modified rules
+
+The characters on this document follow a modified version of the guidance presented in the original book. The following changes have been made from the character creation and advancement guidance written in _Hidden Heroes_, and also apply to the pre-generated characters included in the adventure.
+
+- Players may choose any Tiny Beast with a Challenge Rating of 0, as long as that creature is an herbivore or insectivore that has the ability to move and breathe on land or in the air. If the selected stat block does not have a melee weapon attack option, it gains a natural weapon attack action of the player's choice based on the creature's physical abilities and with the following statistics: +STR or +DEX (minimum +0) to hit, reach 5 ft., one target, deals 1 Bludgeoning, Piercing, or Slashing damage on a hit (choose the damage type when making the character).
+- At each level advancement, a character's Hit Point Maximum increases by the average of the additional Hit Dice. For example, characters with a d4 Hit Die add 2 to their Hit Point Maximum at 2nd level, and 5 at 3rd level (since the average roll is 2.5).
+- As with normal characters, the Hit Point Maximum increase includes the character's Constitution modifier. For example, a 2nd level character with a d4 Hit Die and a Constitution score of 9 would have 4 Hit Points (2d4 − 2).
 
 ## Crab
 
@@ -12,11 +20,10 @@ The listed beast characters follow the **Creation & Advancement** guidelines in 
 
 #### Attributes
 
-_Tiny beast_
+_Tiny Beast_
 
-- **Armor Class:** 11
-- **Hit Points:** 4
-- **Hit Dice:** 1d4
+- **Armor Class:** 11 (natural armor)
+- **Hit Points:** 4 (1d4)
 - **Speed:** 20 ft., swim 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -38,9 +45,7 @@ _**Claw.**_ _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 
 
 #### Attributes
 
-- **Armor Class:** 12
-- **Hit Points:** 6
-- **Hit Dice:** 2d4
+- **Hit Points:** 6 (2d4)
 - **Speed:** 25 ft., swim 25 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -49,15 +54,14 @@ _**Claw.**_ _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 
 
 #### Special Traits
 
-_**Iron Grip.**_ When you successfully hit a creature with your claw attack, the target is Grappled (escape DC 11). You can Grapple up to two creatures at a time, one with each claw. Until each Grapple ends, you cannot use that claw for a claw attack on another target.
+_**Iron Grip.**_ When you successfully hit a creature with your Claw attack, the target is Grappled. You can Grapple up to two creatures at a time, one with each claw. Until each Grapple ends, you cannot use that claw for a Claw attack on another target.
 
 ### Level 3
 
 #### Attributes
 
-- **Armor Class:** 13
-- **Hit Points:** 9
-- **Hit Dice:** 3d4
+- **Armor Class:** 13 (natural armor)
+- **Hit Points:** 9 (3d4)
 - **Speed:** 30 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -68,66 +72,7 @@ _**Iron Grip.**_ When you successfully hit a creature with your claw attack, the
 
 #### Special Traits
 
-_**Spellcasting.**_ You know the _shield_ spell and the _mage hand_ cantrip. You may cast up to 4 spells or cantrips and regain all uses when you finish a Short or Long Rest. Intelligence is your spellcasting modifier.
-
-## Goat
-
-### Level 1
-
-#### Attributes
-
-_Medium beast_
-
-- **Armor Class:** 10
-- **Hit Points:** 8
-- **Hit Dice:** 1d8
-- **Speed:** 40 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|12 (+1)|10 (+0)|11 (+0)|10 (+0)|10 (+0)|5 (-3)|
-
-- **Senses** Passive Perception 10
-
-#### Special Traits
-
-_**Sure-Footed.**_ You have advantage on Strength and Dexterity Saving Throws made against effects that would knock you Prone.
-
-#### Actions
-
- _**Ram.**_ _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) Bludgeoning damage.
-
-### Level 2
-
-#### Attributes
-
-- **Hit Points:** 12
-- **Hit Dice:** 2d8
-- **Speed:** 45 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|12 (+1)|10 (+0)|11 (+0)|10 (+0)|10 (+0)|6 (-2)|
-
-#### Special Traits
-
-_**Cliff-Jumper.**_ You have a knack for verticality and can scale the most precipitous of slopes with ease. You can spend all of your movement to move along vertical surfaces on your turn without falling during the move. When you move in this manner, you have a climbing speed of 30 feet.
-
-### Level 3
-
-#### Attributes
-
-- **Hit Points:** 17
-- **Hit Dice:** 3d8
-- **Speed:** 50 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|12 (+1)|10 (+0)|11 (+0)|10 (+0)|10 (+0)|7 (-2)|
-
-#### Special Traits
-
-_**Charge.**_ If you move at least 20 feet straight toward a target and then hit them with a ram attack on the same turn, the target takes an extra 5 (2d4) Piercing damage. If the target is a creature, they must succeed on a DC 11 Strength Saving Throw or be knocked Prone. If you used all your movement speed for this trait, the target has disadvantage on the Saving Throw.
+_**Natural Armor.**_ Your carapace has been magically strengthened. When you aren't wearing armor, your base Armor Class is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.
 
 ## Spider
 
@@ -135,11 +80,10 @@ _**Charge.**_ If you move at least 20 feet straight toward a target and then hit
 
 #### Attributes
 
-_Tiny beast_
+_Tiny Beast_
 
 - **Armor Class:** 12
-- **Hit Points:** 3
-- **Hit Dice:** 1d4
+- **Hit Points:** 3 (1d4 − 1)
 - **Speed:** 20 ft., climb 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -153,42 +97,36 @@ _Tiny beast_
 
 _**Spider Climb.**_ You can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-#### Actions
-
-_**Bite.**_ *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 Piercing damage, and the target must succeed on a DC 10 Constitution Saving Throw or take 1 Poison damage.
-
-### Level 2
-
-#### Attributes
-
-- **Hit Points:** 4
-- **Hit Dice:** 2d4
-- **Speed** 25 ft., climb 25 ft.
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|3 (-4)|14 (+2)|9 (-1)|10 (+0)|10 (+0)|3 (-4)|
-
-#### Special Traits
-
 _**Web Sense.**_ While in contact with a web, you know the exact location of any other creature in contact with the same web.
 
 _**Web Walker.**_ You ignore movement restrictions caused by webbing.
 
 #### Actions
 
-_**Web.**_ _Ranged Weapon Attack:_ +5 to hit, range 15/30 ft., one creature. _Hit:_ The target is restrained by webbing. As an Action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success.
+_**Bite.**_ _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 1 Piercing damage, and the target must succeed on a DC 9 Constitution Saving Throw or take 2 (1d4) Poison damage.
 
-The webbing can be attacked and destroyed (AC 8; HP 4; vulnerability to Fire damage; immunity to Bludgeoning, Poison, and Psychic damage). After one minute, the webbing dissolves and disappears.
+### Level 2
 
-You regain the use of this attack after any existing webbing is burst, destroyed, or disappears, or after taking a Short or Long Rest.
+#### Attributes
+
+- **Hit Points:** 4 (2d4 − 2)
+- **Speed** 25 ft., climb 25 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|3 (-4)|14 (+2)|9 (-1)|10 (+0)|10 (+0)|3 (-4)|
+
+- **Senses:** Blindsight 10 ft., Darkvision 60 ft., Passive Perception 10
+
+#### Actions
+
+_**Web (3/Short Rest).**_ _Ranged Weapon Attack:_ +4 to hit, range 15/30 ft., one creature. _Hit:_ The target is Restrained by webbing. As an Action, the Restrained target can make a DC 11 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; HP 2; vulnerability to Fire; immunity to Bludgeoning, Poison, and Psychic).
 
 ### Level 3
 
 #### Attributes
 
-- **Hit Points:** 9
-- **Hit Dice:** 3d4
+- **Hit Points:** 9 (3d4)
 - **Speed:** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -197,8 +135,6 @@ You regain the use of this attack after any existing webbing is burst, destroyed
 
 #### Actions
 
-_**Silken Refuge.**_ You can spin an enchanted web with a 5 foot radius centered on the space you occupy. Any spaces covered by this webbing are difficult terrain for any creature you choose (this choice is made any time a creature first enters the webbing or starts their turn there). Additionally, if you or any allies end a turn in the web, they regain 1 Hit Point and have advantage on Dexterity Saving Throws until the start of their next turn.
+_**Silken Refuge (1/Long Rest).**_ You can spin an enchanted web with a 5 foot radius centered on the space you occupy. The area covered by this webbing is Difficult Terrain. If you or any allies end a turn in the web, they regain 1 Hit Point, and they have partial cover and Advantage on Dexterity Saving Throws until the start of their next turn.
 
-The enchanted webbing can be attacked and destroyed (AC 11; HP 6; vulnerability to Fire damage; resistance to damage from magical attacks; immunity to Bludgeoning, Poison, and Psychic damage). After one hour, the webbing magically vanishes.
-
-You regain the use of this action after taking a Long Rest.
+The enchanted webbing can be attacked and destroyed (AC 10; HP 5; vulnerability to Fire; immunity to Bludgeoning, Poison, and Psychic). After one minute, the webbing magically vanishes.
