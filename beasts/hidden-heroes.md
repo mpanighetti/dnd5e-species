@@ -132,7 +132,7 @@ _**Pack Tactics.**_ You have Advantage on an attack roll against a creature if a
 
 #### Actions
 
-_**Hail to the King (1/Long Rest).**_ You emit a squeak of great authority, magically summoning a _swarm of rats_ in your space to aid you. The swarm is friendly to you and your companions for 10 minutes or until you lose your Concentration. A friendly swarm obeys your commands and shares your initiative count, but it takes its turn immediately after yours.  If you issue no commands to a friendly swarm, it defends itself but otherwise takes no actions. Whenever you are sharing a space with the friendly swarm, you have Advantage on Stealth checks to hide in the swarm. When the swarm is no longer friendly, it behaves as it normally would.
+_**Hail to the King (1/Long Rest).**_ You emit a squeak of great authority, magically summoning a swarm of awakened rats in your space to aid you (use the _swarm of rats_ stat block with Intelligence 10). The swarm obeys your commands and shares your initiative count, but it takes its turn immediately after yours.  If you issue no commands to the swarm, it defends itself but otherwise takes no actions. Whenever you are sharing a space with the swarm, you have Advantage on Stealth checks to hide in the swarm. The swarm disappears if you or your allies deal damage to it, if you lose your Concentration, or after 10 minutes.
 
 ## Spider
 
