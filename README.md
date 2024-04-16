@@ -27,10 +27,13 @@ Species are arranged by creature type and listed alphabetically. Species with mu
 
 #### Humanoids
 
-- [Brakko](humanoids/brakko.md)
 - [Cetean](humanoids/cetean.md)
 - [Desert dwarf](humanoids/desert-dwarf.md)
 - [Dust gnome](humanoids/dust-gnome.md)
+
+#### Monstrosities
+
+- [Brakko](humanoids/brakko.md)
 
 #### Oozes
 
