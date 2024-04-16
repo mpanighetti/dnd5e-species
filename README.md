@@ -13,6 +13,9 @@ Species are arranged by creature type and listed alphabetically. Species with mu
 #### Beasts
 
 - [Hidden Heroes](beasts/hidden-heroes.md)
+  - [Crab](beasts/hidden-heroes.md#crab)
+  - [Rat](beasts/hidden-heroes.md#rat)
+  - [Spider](beasts/hidden-heroes.md#spider)
 
 #### Constructs
 
