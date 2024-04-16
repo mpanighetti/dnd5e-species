@@ -6,6 +6,8 @@ This is a collection of awakened beasts suitable for use in the _[Hidden Heroes 
 
 The listed beast characters follow the **Creation & Advancement** guidelines in the _Hidden Heroes_ booklet, with some changes (see **<a href="#modified-rules">Modified rules</a>**). This document uses modified versions of the monster stat block template to list each creature's attributes at each character level. As with the pre-generated characters in _Hidden Heroes_, each advancement level stat block is additive; they only include new information for that level, and anything not listed defers to the value of the last advancement level that modified that attribute.
 
+The options below, combined with the pre-generated characters in _Hidden Heroes_, cover all beasts in the _Systems Reference Document_ suitable for the adventure under the modified character rules.
+
 #### Modified rules
 
 The characters on this document follow a modified version of the guidance presented in the original book. The following changes have been made from the character creation and advancement guidance written in _Hidden Heroes_, and also apply to the pre-generated characters included in the adventure.
@@ -73,6 +75,64 @@ _**Iron Grip.**_ When you successfully hit a creature with your Claw attack, the
 #### Special Traits
 
 _**Natural Armor.**_ Your carapace has been magically strengthened. When you aren't wearing armor, your base Armor Class is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.
+
+## Rat
+
+### Level 1
+
+#### Attributes
+
+_Tiny Beast_
+
+- **Armor Class:** 10
+- **Hit Points:** 3 (1d4 − 1)
+- **Speed:** 20 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|2 (-4)|11 (+0)|9 (-1)|10 (+0)|10 (+0)|4 (-3)|
+
+- **Senses:** Darkvision 30 ft., Passive Perception 10
+
+#### Special Traits
+
+_**Keen Smell.**_ You have aAdvantage on Wisdom (Perception) checks that rely on smell.
+
+#### Actions
+
+_**Bite.**_ _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 Piercing damage.
+
+### Level 2
+
+#### Attributes
+
+- **Hit Points:** 5 (2d4)
+- **Speed** 25 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|3 (-4)|11 (+0)|10 (+0)|10 (+0)|10 (+0)|5 (-3)|
+
+- **Senses:** Darkvision 60 ft., Passive Perception 10
+
+#### Special Traits
+
+_**Pack Tactics.**_ You have Advantage on an attack roll against a creature if at least one of your allies is within 5 feet of your target and isn't Incapacitated.
+
+### Level 3
+
+#### Attributes
+
+- **Hit Points:** 9 (3d4)
+- **Speed:** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|4 (-3)|11 (+0)|10 (+0)|10 (+0)|10 (+0)|6 (-2)|
+
+#### Actions
+
+_**Hail to the King (1/Long Rest).**_ You emit a squeak of great authority, magically summoning a _swarm of rats_ in your space to aid you. The swarm is friendly to you and your companions for 10 minutes or until you lose your Concentration. A friendly swarm obeys your commands and shares your initiative count, but it takes its turn immediately after yours.  If you issue no commands to a friendly swarm, it defends itself but otherwise takes no actions. Whenever you are sharing a space with the friendly swarm, you have Advantage on Stealth checks to hide in the swarm. When the swarm is no longer friendly, it behaves as it normally would.
 
 ## Spider
 
