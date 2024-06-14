@@ -2,7 +2,11 @@
 
 ### Description
 
-**Brakko** are intelligent aquatic beings residing primarily in [Malagwa](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/malagwa.md) and the [oceans](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/waters) surrounding [Esterfell](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/esterfell.md).
+**Brakko** are intelligent aquatic beings residing in the deeper [waters](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/waters) surrounding [Esterfell](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/esterfell.md).
+
+### Distribution
+
+Brakko schools came upon Esterfell in the last few centuries. They tend to avoid the landbound societies of the continent, and they get in regular quarrels with the people of [Xiahulia](https://github.com/mpanighetti/dnd5e-mote/blob/main/societies/xiahulia.md) over resources and territory. Though some brakko embraced the larger established society and now consider themselves Xiahuli, many maintained their older tribal and familial affiliations and bristle at the thought of unifying with what they see as lesser beings. Most folk consider the deeper waters of southern Esterfell to be firmly brakko territory, as the pressure of the depths makes it difficult for the Xiahuli to build permanent structures there.
 
 ### Traits
 
