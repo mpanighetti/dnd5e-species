@@ -2,12 +2,20 @@
 
 ### Description
 
-**Ceteans** are a society of whalefolk who swim great distances in the pursuit of knowledge.
+**Ceteans** are a whalefolk species who explore [Mote]([../../mote/mote.md](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/mote.md)) and [Fellspace](https://github.com/mpanighetti/dnd5e-mote/blob/main/astronomy/fellspace.md) in the pursuit of knowledge and starstuff.
 
 <figure>
   <img src="https://github.com/mpanighetti/dnd5e-mote/blob/main/species/cetean/ooeeoo-nikki-lacey.jpg" alt="Drawing of a whale-like humanoid figure with a blue body and a white underside, a long sleek flattened tail, and saurian three-toed feet. The figure is wielding a golden trident with curved outer tines, and is wearing a deep blue and purple cloak shimmering with images of stars, as well as a belt with a sword in their scabbard." />
   <figcaption>Ooeeoo by <a href="https://linktr.ee/hollycircling">Nikki Lacey</a></figcaption>
 </figure>
+
+### Distribution
+
+Ceteans originate from distant regions of Fellspace, where they swam through [starstuff](https://github.com/mpanighetti/dnd5e-mote/blob/main/artifacts/starstuff.md) nebulas and thrived off of the material's magical nourishment. These free-flying pods were drawn to the starsuff regularly bombarding Mote, and eventually took up permanent residence in the world's bountiful oceans. The gift of Echospeak possessed by all ceteans meant that even when these groups forever left the realm of Fellspace, they continued to communicate with their stellar brethren and share knowledge with the wider cetean community.
+
+After a massive starstuff asteroid impacted with Esterfell, many cetean pods came to the new land, eventually becoming founding members of the nation of [Xiahulia](https://github.com/mpanighetti/dnd5e-mote/blob/main/societies/xiahulia.md).
+
+Multiple pods of ceteans reside within the [oceans](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/waters) surrounding [Esterfell](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/esterfell.md). They mostly stay away from the continent's landbound societies but occasionally can be found in port cities to engage in trade.
 
 ### Traits
 
@@ -23,7 +31,7 @@ _**Hold Breath.**_ You can hold your breath for up to 1 hour.
 
 _**Whale Build.**_ You have advantage on Strength-based ability checks and Strength Saving Throws. In addition, you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
-_**Whalesong.**_ You can use your Echospeak to connect to other members of your pod and are able to communicate with them over great distances, benefitting from shared knowledge carried through your people's collective whalesong. Whenever you finish a Long Rest, you gain Proficiency in one skill of your choice. You acquire this Proficiency by drawing from shared cetean knowledge, and you retain it until you finish your next Long Rest.
+_**Whalesong.**_ You can use your Echospeak to connect to other members of your pod over great distances, benefitting from shared knowledge carried through your people's collective whalesong. Whenever you finish a Long Rest, you gain Proficiency in one skill of your choice. You acquire this Proficiency by drawing from shared cetean knowledge, and you retain it until you finish your next Long Rest.
 
 ---
 
