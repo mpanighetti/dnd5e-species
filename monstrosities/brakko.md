@@ -18,4 +18,6 @@ _**Bite.**_ You have a fanged maw that you can use to make Unarmed Strikes. When
 
 Additionally, if you move at least 20 feet straight toward a target and then hit them with your bite attack on the same turn, the target takes an extra 1d6 Piercing damage, and if the target is a creature of the same Size as you or smaller, they are Grappled in your mouth. While Grappling a creature in this manner, your swimming speed is not halved due to dragging or carrying the Grappled creature, and you cannot Grapple another creature with your bite.
 
-_**Plunderer of the Depths.**_ You ignore any of the drawbacks caused by a deep, underwater environment. Additionally, you can communicate simple ideas to any Beast, Elemental, or Monstrosity that has a swimming speed. The creature can understand your words, though you have no special ability to understand them in return.
+---
+
+_Source: [Mote](https://github.com/mpanighetti/dnd5e-mote)_
