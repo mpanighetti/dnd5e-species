@@ -25,7 +25,7 @@ Selkie families immigrated to Esterfell alongside the early human tribes, hiding
 
 As a selkie, you have the following special traits.
 
-_**Aquatic Fortitude.**_ A life spent traversing the icy ocean depths has given you a hardy resilience. You ignore any of the drawbacks caused by a deep, underwater environment. Additionally, while you are not wearing armor, your Armor Class equals 12 + your Constitution modifier.
+_**Aquatic Fortitude.**_ A life spent traversing the icy ocean depths has given you a hardy resilience. While you are not wearing armor, your Armor Class equals 12 + your Constitution modifier.
 
 _**Friend of the Sea.**_ You can communicate simple ideas to any Beast that has a swimming speed using sounds and gestures, and you can understand the creature in kind.
 

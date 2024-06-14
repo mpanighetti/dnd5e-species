@@ -2,7 +2,7 @@
 
 ### Description
 
-**Brakko** are intelligent aquatic beings residing in the deeper [waters](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/waters) surrounding [Esterfell](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/esterfell.md).
+**Brakko** are intelligent aquatic beings residing in the deepest [waters](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/waters) surrounding [Esterfell](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/esterfell.md).
 
 ### Distribution
 
