@@ -6,7 +6,7 @@ This is a collection of awakened beasts suitable for use in the _[Hidden Heroes 
 
 The listed beast characters follow the **Creation & Advancement** guidelines in the _Hidden Heroes_ booklet, with some changes (see **<a href="#modified-rules">Modified rules</a>**). This document uses modified versions of the monster stat block template to list each creature's attributes at each character level. As with the pre-generated characters in _Hidden Heroes_, each advancement level stat block is additive; they only include new information for that level, and anything not listed defers to the value of the last advancement level that modified that attribute.
 
-The options below, combined with the pre-generated characters in _Hidden Heroes_, cover all beasts in the _Systems Reference Document_ suitable for the adventure under the modified character rules.
+The options below, combined with the pre-generated characters in _Hidden Heroes_, cover all beasts in _Systems Reference Document 5.1_ suitable for the adventure under the modified character rules.
 
 #### Modified rules
 
