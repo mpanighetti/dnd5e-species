@@ -35,7 +35,7 @@ _Tiny Beast_
 - **Skills:** Stealth +2
 - **Senses:** Blindsight 30 ft., Passive Perception 9
 
-#### Special Traits
+#### Traits
 
 _**Amphibious.**_ You can breathe air and water.
 
@@ -54,7 +54,7 @@ _**Claw.**_ _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |3 (-4)|11 (+0)|10 (+0)|10 (+0)|9 (-1)|3 (-4)|
 
-#### Special Traits
+#### Traits
 
 _**Iron Grip.**_ When you successfully hit a creature with your Claw attack, the target is Grappled. You can Grapple up to two creatures at a time, one with each claw. Until each Grapple ends, you cannot use that claw for a Claw attack on another target.
 
@@ -72,7 +72,7 @@ _**Iron Grip.**_ When you successfully hit a creature with your Claw attack, the
 
 - **Senses:** Blindsight 30 ft., Passive Perception 10
 
-#### Special Traits
+#### Traits
 
 _**Natural Armor.**_ Your carapace has been magically strengthened. When you aren't wearing armor, your base Armor Class is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.
 
@@ -94,9 +94,9 @@ _Tiny Beast_
 
 - **Senses:** Darkvision 30 ft., Passive Perception 10
 
-#### Special Traits
+#### Traits
 
-_**Keen Smell.**_ You have aAdvantage on Wisdom (Perception) checks that rely on smell.
+_**Keen Smell.**_ You have Advantage on Wisdom (Perception) checks that rely on smell.
 
 #### Actions
 
@@ -115,7 +115,7 @@ _**Bite.**_ _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 
 
 - **Senses:** Darkvision 60 ft., Passive Perception 10
 
-#### Special Traits
+#### Traits
 
 _**Pack Tactics.**_ You have Advantage on an attack roll against a creature if at least one of your allies is within 5 feet of your target and isn't Incapacitated.
 
@@ -153,7 +153,7 @@ _Tiny Beast_
 - **Skills:** Stealth +4
 - **Senses:** Darkvision 30 ft., Passive Perception 10
 
-#### Special Traits
+#### Traits
 
 _**Spider Climb.**_ You can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -180,7 +180,7 @@ _**Bite.**_ _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 1 
 
 #### Actions
 
-_**Web (3/Short Rest).**_ _Ranged Weapon Attack:_ +4 to hit, range 15/30 ft., one creature. _Hit:_ The target is Restrained by webbing. As an Action, the Restrained target can make a DC 11 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; HP 2; vulnerability to Fire; immunity to Bludgeoning, Poison, and Psychic).
+_**Web (1/Short or Long Rest).**_ _Ranged Weapon Attack:_ +4 to hit, range 15/30 ft., one creature. _Hit:_ The target is Restrained by webbing. As an Action, the Restrained target can make a DC 11 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; HP 2; vulnerability to Fire; immunity to Bludgeoning, Poison, and Psychic).
 
 ### Level 3
 
