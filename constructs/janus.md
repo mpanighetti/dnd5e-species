@@ -10,7 +10,7 @@ Doogas sought to recreate the being from his visions. With the help of his tinke
 
 <figure>
   <img src="janus-tigerlilynoh.png" alt="Drawing of a humanoid figure resembling D'Arcy Carden from The Good Place with a gray blouse, purple corset and dress, and brown boots. Their skin has seams indicating that it's artificial and stitched together from separate components." />
-  <figcaption>TigerLilyNoh by <a href="https://tigerlilynoh.tumblr.com">TigerLilyNoh</a></figcaption>
+  <figcaption>Janus by <a href="https://tigerlilynoh.tumblr.com">TigerLilyNoh</a></figcaption>
 </figure>
 
 #### Not a Robot, Not a Girl
