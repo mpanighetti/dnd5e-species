@@ -29,7 +29,7 @@ _**Echospeak.**_ Without the assistance of magic, the baleen structures in your 
 
 _**Hold Breath.**_ You can hold your breath for up to 1 hour.
 
-_**Whale Build.**_ You have advantage on Strength-based ability checks and Strength Saving Throws. In addition, you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+_**Large Build.**_ You have advantage on Strength-based ability checks and Strength Saving Throws. In addition, you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
 _**Whalesong.**_ You can use your Echospeak to connect to other members of your pod over great distances, benefitting from shared knowledge carried through your people's collective whalesong. Whenever you finish a Long Rest, you gain Proficiency in one skill of your choice. You acquire this Proficiency by drawing from shared cetean knowledge, and you retain it until you finish your next Long Rest.
 
