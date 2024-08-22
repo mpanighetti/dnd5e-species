@@ -2,7 +2,7 @@
 
 ### Description
 
-**Selkie** are intelligent sealfolk who live in the shallow waters surrounding [Esterfell](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/esterfell.md). For many centuries, their true natue was unknown by landbound peoples, often being attributed to fish tales passed around by sailors.
+**Selkie** are intelligent sealfolk who live in the shallow waters surrounding [Esterfell](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/esterfell.md). For many centuries, their true nature was unknown by landbound peoples, often being attributed to fish tales passed around by sailors.
 
 Unlike some therianthropic societies, selkies do not favor one of their forms over another; rather, both their seal and person shapes are equally natural and part of their being. A selkie will happily and readily switch forms depending on where they might be headed and what they're trying to accomplish, and is as comfortable bobbing in the water as sleeping in soft bedding. To a selkie, changing forms is akin to putting on a thick coat to endure a winter storm, or changing into lighter attire to enjoy the sun's warming rays.
 
