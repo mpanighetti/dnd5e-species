@@ -14,25 +14,27 @@ Selkies occupy narrow stretches of shoreline bordering sea, and can happily thri
 
 Selkie families immigrated to Esterfell alongside the early human tribes, hiding their nature by maintaining their person forms while in transit. Many took up residence in the lagoon at the center of [Malagwa](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/malagwa.md), enjoying the solitude and finding kinship with the native [Malagwan seals](https://github.com/mpanighetti/dnd5e-mote/blob/main/bestiary/malagwan-seal.md). Most selkies stuck with familial groups outside of landfolk society, though some formed loose congregations with other selkie families via large pods. Some selkies also took to the northern [oceans](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/waters) of Esterfell and helped to form the nation of [Xiahulia](https://github.com/mpanighetti/dnd5e-mote/blob/main/societies/xiahulia.md), though their need for air means they rarely traverse the depths of the society's underwater communities.
 
-### Traits
+## Traits
 
 - _**Creature Type:**_ Fey
 - _**Size:**_ Medium (5-6 feet tall)
-- _**Speed:**_ 30 feet, swim 20 feet (20 feet, swim 40 feet in seal form)
-- _**Resistances:**_ Cold
-- _**Senses:**_ Darkvision 60 feet (gain Blindsight 5 feet in seal form)
+- _**Speed:**_ 30 feet (halved in seal form), swim 20 feet (doubled in seal form) (**Selkie Skin**)
+- _**Resistances:**_ Cold (**Aquatic Fortitude**)
+- _**Senses:**_ Darkvision 60 feet, Blindsight 5 feet (seal form) (**Selkie Skin**)
 - _**Life Span:**_ 70-80 years on average
 
 As a selkie, you have the following special traits.
 
-_**Aquatic Fortitude.**_ A life spent traversing the icy ocean depths has given you a hardy resilience. While you are not wearing armor, your Armor Class equals 12 + your Constitution modifier.
+_**Aquatic Fortitude.**_ A life spent traversing the icy ocean depths has given you a hardy resilience. You gain Resistance to Cold damage, and While you are not wearing armor, your Armor Class equals 12 + your Constitution modifier.
 
 _**Friend of the Sea.**_ You can communicate simple ideas to any Beast that has a swimming speed using sounds and gestures, and you can understand the creature in kind.
 
 _**Hold Breath.**_ You can hold your breath for 30 minutes.
 
-_**Selkie Skin.**_ You can use your action to don your [selkie skin](https://github.com/mpanighetti/dnd5e-mote/blob/main/artifacts/selkie-skin.md) and polymorph into your seal form, or doff it to polymorph into your person form, which resembles a human (or the species of a non-selkie parent). Your statistics are the same in your seal form except for where noted in your selkie traits, as well as the following changes:
+_**Selkie Skin.**_ You can use your action to don your [selkie skin](https://github.com/mpanighetti/dnd5e-mote/blob/main/artifacts/selkie-skin.md) and shape-shift into your seal form, or doff it to shape-shift into your person form, which resembles a human (or the species of a non-selkie parent). Your statistics are the same in your seal form except for where noted in your selkie traits, as well as the following changes:
 
+- Your Walking Speed is halved, and your Swimming Speed is doubled.
+- Your whiskers grant you Blindsight to a distance of 5 feet.
 - You have advantage on Wisdom (Perception) checks that rely on smell.
 - You are unable to speak, and you cannot perform actions that require hands.
 - _**Bite.**_ You have sharp teeth that you can use to make Unarmed Strikes. When you hit with it, the strike deals 1d6 + your Strength modifier Piercing damage, instead of the Bludgeoning damage normal for an Unarmed Strike.
