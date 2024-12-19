@@ -13,7 +13,7 @@ Brakko schools came upon Esterfell in the last few centuries. They tend to avoid
 - _**Creature Type:**_ Monstrosity
 - _**Size:**_ Medium (4-7 feet tall)
 - _**Speed:**_ 30 feet, swim 40 feet
-- _**Skills:**_ Intimidation or Stealth
+- _**Skills:**_ Stealth
 - _**Resistances:**_ Cold
 - _**Senses:**_ Darkvision 60 feet; Tremorsense 30 ft. when in liquid
 - _**Life Span:**_ 50-70 years on average
