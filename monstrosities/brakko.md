@@ -20,7 +20,7 @@ Brakko schools came upon Esterfell in the last few centuries. They tend to avoid
 
 As a brakko, you have the following special traits.
 
-_**Amphibious.**_ You can breathe air and water.
+_**Amphibious.**_ You have Resistance to Cold damage, and you can breathe air and water.
 
 _**Bite.**_ You have a fanged maw that you can use to make Unarmed Strikes. When you hit with it, the strike deals 1d6 + your Strength modifier Piercing damage, instead of the Bludgeoning damage normal for an Unarmed Strike.
 
