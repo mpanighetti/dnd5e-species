@@ -13,7 +13,6 @@ The hot stretches of [Barrian](https://github.com/mpanighetti/dnd5e-mote/tree/ma
 - _**Creature Type:**_ Humanoid
 - _**Size:**_ Small (2-3 feet tall)
 - _**Speed:**_ 30 feet
-- _**Skills:**_ Perception, Survival
 - _**Senses:**_ Darkvision 60 feet
 - _**Life Span:**_ 350 years on average
 
