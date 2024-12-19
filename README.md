@@ -20,6 +20,7 @@ Species are arranged by creature type and listed alphabetically. Species with mu
 #### Constructs
 
 - [Janus](constructs/janus.md)
+- [Spark](constructs/spark.md)
 
 #### Fey
 
